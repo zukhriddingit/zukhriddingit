@@ -58,14 +58,14 @@ A versatile utility library to simplify repetitive coding tasks. Focused on prod
 
 ### 📫 Let's Connect:
 
-- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/zukhriddingit)
-- **Twitter:** [Follow me](https://twitter.com/zukhriddingit)
-- **Email:** zukhriddingit@example.com (Replace with your actual email)
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/zukhriddin-fakhriddinov)
+- **Twitter:** [Follow me](https://twitter.com/pythondsa)
+- **Email:** faxriddinovzuxriddin60@gmail.com 
 
 ---
 
 ### 🌱 Fun Fact:
-When I'm not coding, you'll probably find me exploring the latest research in AI, gaming, or enjoying a good book.
+When I'm not coding, you'll probably find me exploring the latest research in AI, playing table tennis, or enjoying a good book.
 
 ---
 
