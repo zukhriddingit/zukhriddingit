@@ -1,4 +1,4 @@
-# Hi there, I'm [Zukhriddingit](https://github.com/zukhriddingit) 👋
+# Hi there, I'm [Zukhriddin](https://github.com/zukhriddingit) 👋
 
 Welcome to my GitHub profile! I'm a passionate **Machine Learning Engineer** with a knack for solving challenging problems using data and intelligent algorithms. Beyond ML, I have significant experience in both backend and frontend development, enabling me to create end-to-end solutions that work seamlessly.
 
