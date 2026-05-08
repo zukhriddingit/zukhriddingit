@@ -1,35 +1,36 @@
 # Hi, I'm Zukhriddin
 
-I'm an AI master's student at Boston University building applied ML and data systems.  
-I work mostly with Python, SQL, PyTorch, scikit-learn, and backend APIs.
+I'm an AI master's student at Boston University building applied ML, data, and backend systems.
 
-## Current Focus
+I like projects where the hard part is making messy inputs useful: retrieving the right evidence, cleaning real-world data, evaluating models honestly, and turning the result into something people can use.
 
-- Retrieval-augmented generation and grounded QA
-- Data science pipelines for messy real-world datasets
-- Computer vision and multimodal ML
-- Backend systems with Django REST Framework
+## What I'm working on
 
-## Selected Projects
+- Local RAG and grounded scientific QA
+- Data science pipelines for messy transaction datasets
+- Computer vision and multimodal model analysis
+- Backend APIs with Django REST Framework and FastAPI
 
-- **Scientific QA with Local RAG**  
-  Built a local QASPER RAG pipeline with hybrid retrieval, reranking, Phi-3.5 generation, and citation evaluation.
+## Selected work
 
-- **AML Transaction Risk Detection**  
-  Engineered 50+ historical behavior features across IBM + SAML-D transaction data and trained models for alert ranking.
+**Scientific QA with Local RAG**  
+Built a local QASPER pipeline with hybrid retrieval, reranking, Phi-3.5 generation, and citation evaluation.
 
-- **Video Moment Retrieval Analysis**  
-  Reproduced DETR-style video moment retrieval models and analyzed temporal bias, verb/noun sensitivity, and attention heads.
+**AML Transaction Risk Detection**  
+Engineered 50+ historical behavior features across IBM + SAML-D transaction data for alert ranking.
 
-- **DRFChatApp**  
-  Django REST Framework chat application.
+**Video Moment Retrieval Analysis**  
+Reproduced DETR-style video moment retrieval models and analyzed temporal bias, language sensitivity, and attention heads.
 
-## Tech
+**DRFChatApp**  
+Django REST Framework chat backend.
+
+## Stack
 
 `Python` `SQL` `PyTorch` `TensorFlow` `scikit-learn` `pandas` `NumPy`  
-`Django REST Framework` `JavaScript` `Git` `Linux` `Jupyter`
+`Django REST Framework` `FastAPI` `JavaScript` `Git` `Linux` `Jupyter`
 
 ## Connect
 
-- LinkedIn: https://www.linkedin.com/in/zukhriddin-fakhriddinov/
-- Email: faxriddinovzuxriddin60@gmail.com
+- LinkedIn: [linkedin.com/in/zukhriddin-fakhriddinov](https://www.linkedin.com/in/zukhriddin-fakhriddinov/)
+- Email: [zfmsai@bu.edu](mailto:zfmsai@bu.edu)
