@@ -1,72 +1,35 @@
-# Hi there, I'm [Zukhriddin](https://github.com/zukhriddingit) 👋
+# Hi, I'm Zukhriddin
 
-Welcome to my GitHub profile! I'm a passionate **Machine Learning Engineer** with a knack for solving challenging problems using data and intelligent algorithms. Beyond ML, I have significant experience in both backend and frontend development, enabling me to create end-to-end solutions that work seamlessly.
+I'm an AI master's student at Boston University building applied ML and data systems.  
+I work mostly with Python, SQL, PyTorch, scikit-learn, and backend APIs.
 
----
+## Current Focus
 
-### 🚀 About Me:
+- Retrieval-augmented generation and grounded QA
+- Data science pipelines for messy real-world datasets
+- Computer vision and multimodal ML
+- Backend systems with Django REST Framework
 
-- 🔬 **Machine Learning:** Expertise in building, deploying, and fine-tuning ML models for diverse applications.
-- 🖥️ **Backend Development:** Strong skills in designing and implementing robust and scalable APIs and services.
-- 🌐 **Frontend Development:** Crafting responsive and user-friendly interfaces using modern frameworks.
-- 💡 Always exploring cutting-edge technologies and staying curious about the future of tech.
+## Selected Projects
 
----
+- **Scientific QA with Local RAG**  
+  Built a local QASPER RAG pipeline with hybrid retrieval, reranking, Phi-3.5 generation, and citation evaluation.
 
-### 🛠️ Technologies & Tools:
+- **AML Transaction Risk Detection**  
+  Engineered 50+ historical behavior features across IBM + SAML-D transaction data and trained models for alert ranking.
 
-**Programming Languages:**
-- Python, JavaScript, Java, SQL
+- **Video Moment Retrieval Analysis**  
+  Reproduced DETR-style video moment retrieval models and analyzed temporal bias, verb/noun sensitivity, and attention heads.
 
-**Machine Learning & Data Science:**
-- TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy
+- **DRFChatApp**  
+  Django REST Framework chat application.
 
-**Backend Development:**
-- Node.js, Express.js, Django, Flask
+## Tech
 
-**Frontend Development:**
-- React.js, Vue.js, HTML, CSS
+`Python` `SQL` `PyTorch` `TensorFlow` `scikit-learn` `pandas` `NumPy`  
+`Django REST Framework` `JavaScript` `Git` `Linux` `Jupyter`
 
-**DevOps & Cloud:**
-- Docker, Kubernetes, AWS, Azure
+## Connect
 
-**Version Control & Collaboration:**
-- Git, GitHub, CI/CD
-
----
-
-### 📈 GitHub Stats:
-
-![Zukhriddingit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zukhriddingit&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zukhriddingit&layout=compact&theme=radical)
-
----
-
-### 🌟 Featured Projects:
-
-#### [🔥 Awesome ML Project](https://github.com/zukhriddingit/awesome-ml-project)
-A state-of-the-art machine learning model for [specific purpose]. Built with TensorFlow and fine-tuned for exceptional accuracy.
-
-#### [🌐 Full-Stack Web Application](https://github.com/zukhriddingit/fullstack-web-app)
-An end-to-end web app featuring a responsive frontend and a robust backend. Integrated with cloud services for scalability.
-
-#### [🔧 Utility Library](https://github.com/zukhriddingit/utility-library)
-A versatile utility library to simplify repetitive coding tasks. Focused on productivity and efficiency.
-
----
-
-### 📫 Let's Connect:
-
-- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/zukhriddin-fakhriddinov)
-- **Twitter:** [Follow me](https://twitter.com/pythondsa)
-- **Email:** faxriddinovzuxriddin60@gmail.com 
-
----
-
-### 🌱 Fun Fact:
-When I'm not coding, you'll probably find me exploring the latest research in AI, playing table tennis, or enjoying a good book.
-
----
-
-Thank you for stopping by! Feel free to explore my repositories and reach out if you’d like to collaborate or chat about anything tech. 😄
+- LinkedIn: https://www.linkedin.com/in/zukhriddin-fakhriddinov/
+- Email: faxriddinovzuxriddin60@gmail.com
